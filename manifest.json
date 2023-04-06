@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "skip-ad-youtube",
     "version": "1.0",
     "description": "skips ads that appear on youtube.",
